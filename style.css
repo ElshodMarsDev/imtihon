@@ -1,0 +1,104 @@
+.men{
+    text-align: center;
+    background-color: aqua;
+}
+
+.t{
+    color: green;
+}
+
+.u{
+    background-color: gold;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+}
+
+img{
+    width: 400px;
+}
+
+.sen{
+    background-color: gold;
+    text-align: center;
+}
+div{
+    background-color: black;
+   text-align: center;
+}
+
+table,
+tr,
+th,
+td{
+    border: 2px solid rgb( 17,16,16);
+    border: collapse collapse;
+}
+
+.qq{
+    background-color: darkgreen;
+}
+
+.bb{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+
+.ft{
+    background-color: blue;
+}
+
+.hh{
+    background-color: black;
+    color: aliceblue;
+}
+
+.rr{
+    background-color: rgb(239, 6, 6);
+    color: black;
+}
+
+.ff{
+    background-color: rgb(237, 6, 6);
+    color: black;
+}
+
+.gg{
+    color: green;
+}
+
+.vv{
+    color: green;
+}
+
+.zz{
+    color: red;
+}
+
+.y{
+    color: gold;
+    text-align: center;
+}
+
+.ww{
+    text-align: center;
+}
+
+.p{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.yy{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+
+.elshod{
+    color: yellow;
+}
